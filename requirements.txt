@@ -1,0 +1,31 @@
+
+
+# Web frameworks
+streamlit
+flask
+
+# Data science
+pandas
+numpy
+scikit-learn
+joblib
+
+# Deep learning
+tensorflow
+
+# GPT4All (local LLM interface)
+gpt4all
+
+# Voice input/output
+speechrecognition
+pyttsx3
+pyaudio
+
+# Audio processing
+pydub
+
+# For browser & file operations
+playsound
+
+# Optional (if needed for encoding support)
+librosa
