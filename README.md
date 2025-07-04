@@ -18,11 +18,8 @@ Features -
 
 Project Structure - 
 chatbot/
-│
-├── flask_app.py # Main Flask app and API endpoint
-├── backend/
-│ └── chat_logic.py # Routes user input to logic modules
-├── analysis/
-│ └── model_trainer.py # Training and saving the ML model
-├── requirements.txt # Python dependencies
-└── config.json # Configuration
+1.  flask_app.py # Main Flask app and API endpoint backend 
+2. chat_logic.py # Routes user input to logic modules
+3. analysis includes model_trainer.py # Training    and saving the ML model
+4. requirements.txt # Python dependencies
+5. config.json # Configuration
